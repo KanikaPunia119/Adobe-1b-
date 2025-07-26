@@ -116,17 +116,3 @@ This project doesn't require environment variables for basic functionality.
 3. Commit your changes: `git commit -m 'Add amazing feature'`
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
-
-## 📝 License
-
-This project is built with [Lovable](https://lovable.dev) - the AI-powered web development platform.
-
-## 🆘 Support
-
-- [Lovable Documentation](https://docs.lovable.dev/)
-- [Lovable Discord Community](https://discord.com/channels/1119885301872070706/1280461670979993613)
-- [Project URL](https://lovable.dev/projects/c8701c58-e0f7-4c96-b293-08bca12ee2dd)
-
----
-
-Built with ❤️ using [Lovable](https://lovable.dev)
